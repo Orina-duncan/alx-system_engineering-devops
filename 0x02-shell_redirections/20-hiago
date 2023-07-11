@@ -1,2 +1,2 @@
 #!/bin/bash
-rev
+output=$(echo '$input'|tr -d 'cC')
